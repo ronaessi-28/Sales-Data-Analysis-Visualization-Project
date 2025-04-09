@@ -30,7 +30,7 @@ cd Sales-Data-Analysis-Visualization-Project
 
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 
 # Navigate to the notebooks/ folder.
