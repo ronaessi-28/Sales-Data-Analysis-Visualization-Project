@@ -25,6 +25,7 @@ This project analyzes retail sales data using Python. It features:
 ### 1. Clone the Repository
 
 git clone https://github.com/ronaessi-28/Sales-Data-Analysis-Visualization-Project.git
+
 cd Sales-Data-Analysis-Visualization-Project
 
 
@@ -40,6 +41,7 @@ jupyter notebook sales_analysis.ipynb
 
 
 # Run the Streamlit Dashboard
+
 - Navigate to the dashboard/ folder.
 
 Run the app using:
