@@ -24,8 +24,8 @@ This project analyzes retail sales data using Python. It features:
 
 ### 1. Clone the Repository
 
-git clone 
-cd 
+git clone https://github.com/ronaessi-28/Sales-Data-Analysis-Visualization-Project.git
+cd Sales-Data-Analysis-Visualization-Project
 
 
 # Install dependencies
