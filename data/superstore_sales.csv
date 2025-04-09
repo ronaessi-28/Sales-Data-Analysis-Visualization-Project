@@ -1,1 +1,12 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-2016-152156,11/8/2016,11/11/2016,Second Class,CG-12520,Consumer,United States,Henderson,Kentucky,South,FUR-BO-10001798,Furniture,Bookcases,"Bush Somerset Collection Bookcase",261.96,2,0,41.9136
+CA-2016-152156,11/8/2016,11/11/2016,Second Class,CG-12520,Consumer,United States,Henderson,Kentucky,South,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",731.94,3,0,219.582
+CA-2016-138688,6/12/2016,6/16/2016,Second Class,DV-13045,Corporate,United States,Los Angeles,California,West,OFF-LA-10000240,Office Supplies,Labels,"Self-Adhesive Address Labels for Typewriters by Universal",14.62,2,0,6.8714
+US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,Consumer,United States,Fort Lauderdale,Florida,South,FUR-TA-10000577,Furniture,Tables,"Bretford CR4500 Series Slim Rectangular Table",957.58,5,0.45,-383.031
+US-2015-108966,10/11/2015,10/18/2015,Standard Class,SO-20335,Consumer,United States,Fort Lauderdale,Florida,South,OFF-ST-10000760,Office Supplies,Storage,"Eldon Fold 'N Roll Cart System",22.37,2,0.2,2.5164
+CA-2014-115812,6/9/2014,6/14/2014,Standard Class,BH-11710,Consumer,United States,Los Angeles,California,West,TEC-PH-10002275,Technology,Phones,"Apple iPhone 5",910.4,4,0.2,183.648
+CA-2014-115812,6/9/2014,6/14/2014,Standard Class,BH-11710,Consumer,United States,Los Angeles,California,West,OFF-AR-10003056,Office Supplies,Art,"Newell 322",15.98,2,0,5.5928
+CA-2017-114412,4/15/2017,4/20/2017,Standard Class,AA-10480,Consumer,United States,Concord,North Carolina,South,OFF-BI-10003910,Office Supplies,Binders,"Wilson Jones 1\" Hanging DublLock® Ring Binders",22.4,2,0.2,2.2408
+CA-2016-161389,12/5/2016,12/9/2016,Standard Class,IM-15070,Corporate,United States,Seattle,Washington,West,FUR-FU-10001487,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories",48.86,7,0,14.1694
+US-2015-118983,7/11/2015,7/15/2015,Standard Class,HP-14815,Home Office,United States,Columbus,Ohio,East,TEC-AC-10004100,Technology,Accessories,"Logitech Wireless Keyboard",243.16,6,0.2,73.188
 
