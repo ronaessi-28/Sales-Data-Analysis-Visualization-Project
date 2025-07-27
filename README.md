@@ -7,7 +7,7 @@ This project analyzes retail sales data using Python. It features:
 - Exploratory Data Analysis (EDA)
 - Visual storytelling with Matplotlib, Seaborn & Plotly
 - Interactive dashboard with Streamlit  
-
+ 
 ## 📦 Features
 
 - ✅ Clean and preprocess sales dataset
