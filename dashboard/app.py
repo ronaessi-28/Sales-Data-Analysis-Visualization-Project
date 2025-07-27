@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
+import seaborn as sns 
 import matplotlib.pyplot as plt
 from scripts.data_cleaning import load_and_clean_data
 
